@@ -1,6 +1,6 @@
 # AI Quantum 💻🤖
 
-Demo project using AI and Quantum for AI Agents
+Demo project using AI and Quantum for AI 
 
 ## Roadmap
 
