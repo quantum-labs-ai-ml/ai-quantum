@@ -4,6 +4,6 @@ Demo project using AI and Quantum for AI Agents
 
 ## Roadmap
 
-- [ ] Design
-- [ ] Demo implementation
+- [x] Design
+- [x] Demo implementation
 - [ ] FOSS
