@@ -102,5 +102,3 @@ To extend this project:
 - [Scikit-learn Documentation](https://scikit-learn.org)
 - [PennyLane Quantum ML Tutorials](https://pennylane.ai/qml/)
 - [Azure Quantum](https://azure.microsoft.com/en-us/services/quantum/)
-
-This README provides a clear overview of the project, its purpose, setup, and potential extensions, while keeping technical details accessible. Let me know if you need adjustments, such as adding a specific license, including a troubleshooting section, or tailoring it for a particular audience!
